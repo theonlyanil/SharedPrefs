@@ -1,4 +1,5 @@
-[![](https://jitpack.io/v/theonlyanil/SharedPrefs.svg)](https://jitpack.io/#theonlyanil/SharedPrefs)SharedPrefs
+[![](https://jitpack.io/v/theonlyanil/SharedPrefs.svg)](https://jitpack.io/#theonlyanil/SharedPrefs)
+SharedPrefs
 ===
 
 A simple Shared Preferences library to save a few lines of code.
